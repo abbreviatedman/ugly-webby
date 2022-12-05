@@ -1,52 +1,61 @@
 h1 {
-    color: #111;
-    font-family: 'Helvetica Neue', sans-serif;
-    font-size: 275px;
-    font-weight: bold;
+    color: #cdffd3;
+    font-family: 'comic-sans';
+    font-size: 75px;
+    font-weight: 450px;
     letter-spacing: -1px;
-    line-height: 1;
-    text-align: center;
+    line-height: 16;
+    text-align: right;
+    background-image: url(images/ah-kid-peanut-butter-baby.gif);
+    background-repeat: no-repeat;
+    background-position: left top;
 }
 
 p {
     color: #685206;
-    font-family: 'Helvetica Neue', sans-serif;
-    font-size: 14px;
+    font: 'Papyrus';
+    font-size: 8px;
     line-height: 24px;
-    margin: 0 0 24px;
-    text-align: justify;
-    text-justify: inter-word;
+    margin: left;
+    text-align: right;
 }
 
 textarea {
-    margin: 20px;
-    width: 300px;
-    height: 150px;
+    margin: 250px;
+    width: 30px;
+    height: 50px;
+    background-color: #bddefc;
 }
 
 ul, ol {
     margin: 20px;
-    padding: 0;
+    padding: 100;
+    background-color: aquamarine;
+    font-family: cursive;
+    font-size: xx-small;
 }
 
 li {
-    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
-    border-bottom: 1px solid #ccc;
+    font-family: fantasy;
+    font-size: 12px;
+    border-bottom: 25px dotted #ccc;
 }
    
 li:last-child {
-    border: none;
+    border: dotted 15px wheat;
 }
 
-form {
-    height:110px;
-    width:190px;
-    margin:auto;
-    border:1px #CCC solid;
+form, h3 {
+    height:11px;
+    width:1900px;
+    border:310px burlywood solid;
     padding:10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
 }
     
 input, textarea {
     padding:5px;
-    margin:5px
+    margin:5px;
 }
+
