@@ -17,6 +17,7 @@ p {
     text-align: justify;
     text-justify: inter-word;
     border: 1rem dotted pink;
+    background-color: rgba(209, 16, 16, 0.688);
 }
 
 textarea {
