@@ -1,4 +1,4 @@
-# ugly-webby
+# Ugly Webby
 
 For our first CSS activity, we aren't going to have the difficult job of having a vision in mind and trying to make it happen with CSS. In fact, we're going to be taking a reasonable looking (if not beautiful) site and making it as _unreasonable_ looking as possible.
 
