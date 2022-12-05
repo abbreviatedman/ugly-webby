@@ -1,5 +1,8 @@
-h1 {
-    color: #111;
+body {
+    background-color:red
+}
+    h1 {
+    color: rgb(5, 81, 43);
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 275px;
     font-weight: bold;
@@ -49,4 +52,11 @@ form {
 input, textarea {
     padding:5px;
     margin:5px
+}
+img {
+    height:300px;
+    border: 1px solid rgb(14, 84, 55);
+  border-radius: 4px;
+  padding: 5px;
+  width: 175px;
 }
