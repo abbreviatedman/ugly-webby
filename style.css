@@ -1,24 +1,43 @@
-h1 {
-    color: #111;
-    font-family: 'Helvetica Neue', sans-serif;
-    font-size: 275px;
+body {
+    background-image: url("https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/XILUPZFUNQI6THDJBFNCFFY4OY.jpg");
+  background-size: 100%;
+}
+
+
+h1
+{
+
+    color: purple;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right:0;
+    overflow: hidden;
+    font-family: 'Trajan Pro', sans-serif;
+    font-size: 150px;
     font-weight: bold;
-    letter-spacing: -1px;
-    line-height: 1;
+    letter-spacing: 1px;
+    line-height: -5;
     text-align: center;
+    transform: rotateZ(45deg);
+    background-color: yellow;
+    transition: .4s ease;
 }
 
 p {
-    color: #685206;
-    font-family: 'Helvetica Neue', sans-serif;
+    color: orange;
+    font-family: 'Bonzai', sans-serif;
     font-size: 14px;
     line-height: 24px;
     margin: 0 0 24px;
     text-align: justify;
     text-justify: inter-word;
+    transform: rotateZ(-45deg);
+    background-color: green
 }
 
 textarea {
+    color: brown;
     margin: 20px;
     width: 300px;
     height: 150px;
