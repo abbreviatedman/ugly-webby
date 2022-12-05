@@ -1,17 +1,17 @@
 h1 {
-    color: #111;
+    color: rgb(99, 9, 59);
     font-family: 'Helvetica Neue', sans-serif;
-    font-size: 275px;
+    font-size: 350px;
     font-weight: bold;
-    letter-spacing: -1px;
-    line-height: 1;
-    text-align: center;
+    letter-spacing: 1px;
+    line-height: 2;
+    text-align: left;
 }
 
 p {
-    color: #685206;
-    font-family: 'Helvetica Neue', sans-serif;
-    font-size: 14px;
+    color: pink;
+    font-family: 'Helvetica Neue', Verdana, sans-serif;
+    font-size: 30px;
     line-height: 24px;
     margin: 0 0 24px;
     text-align: justify;
@@ -19,19 +19,19 @@ p {
 }
 
 textarea {
-    margin: 20px;
-    width: 300px;
-    height: 150px;
+    margin: 35px;
+    width: 200px;
+    height: 120px;
 }
 
 ul, ol {
-    margin: 20px;
+    margin: 10px;
     padding: 0;
 }
 
 li {
-    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
-    border-bottom: 1px solid #ccc;
+    font: 300 20px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 1px solid rgb(31, 20, 155);
 }
    
 li:last-child {
@@ -42,7 +42,7 @@ form {
     height:110px;
     width:190px;
     margin:auto;
-    border:1px #CCC solid;
+    border:1px orangered solid;
     padding:10px;
 }
     
