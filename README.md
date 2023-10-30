@@ -25,4 +25,4 @@ Have fun, and remember that learning can be fun as long as its creative.
 
 Or destructive!
 
-Yeah, never mind. Destructive is _way_ more fun.
+Yeah, never mind creativity. Destructive is _way_ more fun.
