@@ -4,7 +4,7 @@ For our first CSS activity, we aren't going to have the difficult job of having 
 
 Fork and clone this repo, then check out style.css. Play with the values, add new property-value combinations (maybe play with the `background-color` property?), add CSS rules for other selectors (`h3` for example doesn't have any rules for it yet!), and just generally mess stuff _up_.
 
-_Don't change the html at all_, but `style.css` is your personal playground.
+_Don't change the html at all_ (except possibly adding classes and ids, but this is totally optional). `style.css`, on the other hand, is your personal playground.
 
 Or more like your tower of blocks to knock over and your walls to crayon across.
 
